@@ -1,6 +1,6 @@
 # BOT YUPP.AI
 
-![Fitur Yupp](yupp.png)
+![Fitur Yupp.ai](yupp.png)
 
 **Fitur:**
 
