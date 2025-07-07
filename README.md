@@ -28,7 +28,7 @@ Before running this project, make sure you have installed:
 2. **Install the required packages:**
 
     ```plaintext
-    npm install axios protobufjs readline ntp-client https-proxy-agent socks-proxy-agent tweetnacl tweetnacl-util
+    npm install readline cycletls axios
 
 3. **Add your account in the token.txt file. Example:**
 
