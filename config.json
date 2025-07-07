@@ -1,0 +1,6 @@
+{
+    "delayRandom":true,
+    "minDelayRandomSeconds":10,
+    "maxDelayRandomSeconds":40,
+    "promptFromServer":true
+}
