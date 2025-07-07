@@ -1,4 +1,4 @@
-# BOT YUPP
+# BOT YUPP.AI
 
 ![Fitur Yupp](yupp.png)
 
