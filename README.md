@@ -4,11 +4,11 @@
 
 **Fitur:**
 
-**• Random prompt **
+**• Random prompt**
 
-**• Auto send question **
+**• Auto send question**
 
-**• Supports Proxy w/o Proxy **
+**• Supports Proxy w/o Proxy**
 
 ## Requirements
 
