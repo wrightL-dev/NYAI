@@ -4,6 +4,8 @@
 
 **Fitur:**
 
+**• Single Account**
+
 **• Random prompt**
 
 **• Auto send question**
