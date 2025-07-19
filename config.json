@@ -1,0 +1,9 @@
+{
+    "delayRandom":true,
+    "minDelayRandomSeconds":300,
+    "maxDelayRandomSeconds":700,
+    "promptFromServer":true,
+    "a":"7f183428963ef81d0674de917a9a3b114301d69d74",
+    "d": "dpl_54SHfwQjvna84TgSeenJFNMGrj35"
+    
+}
